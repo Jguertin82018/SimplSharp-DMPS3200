@@ -1,0 +1,13 @@
+E:\Documents\crestron\Simpl# Test Programs\DMPS3-200\Sharp\DMPS3-200Test\DMPS3-200Test\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\crestron\Simpl# Test Programs\DMPS3-200\Sharp\DMPS3-200Test\DMPS3-200Test\bin\Debug\DMPS3-200Test.dll
+E:\Documents\crestron\Simpl# Test Programs\DMPS3-200\Sharp\DMPS3-200Test\DMPS3-200Test\bin\Debug\DMPS3-200Test.pdb
+E:\Documents\crestron\Simpl# Test Programs\DMPS3-200\Sharp\DMPS3-200Test\DMPS3-200Test\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+E:\Documents\crestron\Simpl# Test Programs\DMPS3-200\Sharp\DMPS3-200Test\DMPS3-200Test\bin\Debug\Crestron.SimplSharpPro.DM.dll
+E:\Documents\crestron\Simpl# Test Programs\DMPS3-200\Sharp\DMPS3-200Test\DMPS3-200Test\bin\Debug\Crestron.SimplSharpPro.UI.dll
+E:\Documents\crestron\Simpl# Test Programs\DMPS3-200\Sharp\DMPS3-200Test\DMPS3-200Test\bin\Debug\SimplSharpCustomAttributesInterface.dll
+E:\Documents\crestron\Simpl# Test Programs\DMPS3-200\Sharp\DMPS3-200Test\DMPS3-200Test\bin\Debug\SimplSharpHelperInterface.dll
+E:\Documents\crestron\Simpl# Test Programs\DMPS3-200\Sharp\DMPS3-200Test\DMPS3-200Test\bin\Debug\SimplSharpPro.exe
+E:\Documents\crestron\Simpl# Test Programs\DMPS3-200\Sharp\DMPS3-200Test\DMPS3-200Test\obj\Debug\DMPS3-200Test.dll
+E:\Documents\crestron\Simpl# Test Programs\DMPS3-200\Sharp\DMPS3-200Test\DMPS3-200Test\obj\Debug\DMPS3-200Test.pdb
+E:\Documents\crestron\Simpl# Test Programs\DMPS3-200\Sharp\DMPS3-200Test\DMPS3-200Test\bin\Debug\Crestron.SimplSharpPro.GeneralIO.dll
+E:\Documents\crestron\Simpl# Test Programs\DMPS3-200\Sharp\DMPS3-200Test\DMPS3-200Test\bin\Debug\Crestron.SimplSharpPro.Keypads.dll
